@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/demo.dir/src/rtGetInf.c.o CMakeFiles/demo.dir/src/rtGetNaN.c.o CMakeFiles/demo.dir/src/rt_nonfinite.c.o CMakeFiles/demo.dir/src/test_quadp.c.o CMakeFiles/demo.dir/examples/main.c.o  -o demo -rdynamic -lm 
